@@ -1,0 +1,6 @@
+{
+	    "pylint_path": "/Library/Python/2.7/site-packages/pylint/lint.py",
+        "verbose": true,
+	    "ignore": ["I", "R"]
+
+}

@@ -1,0 +1,4 @@
+[
+{"keys": ["tab"], "command": "indent"},
+{"keys": ["shift+tab"], "command": "unindent"}
+]
